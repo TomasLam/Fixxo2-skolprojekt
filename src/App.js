@@ -2,7 +2,7 @@ import './App.css';
 
 import Home from "./Pages/Home"
 import Contact from './Pages/Contact';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
   return (

@@ -594,3 +594,8 @@ a:hover{
     top: 100px;
     margin-left: 100px;
 }
+
+.email-error{
+    position: relative;
+    margin-left: 840px;
+}
