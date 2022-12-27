@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fixxo2-skolprojekt./static/css/main.7942d51f.css",
+    "main.js": "/Fixxo2-skolprojekt./static/js/main.14653821.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Fixxo2-skolprojekt./static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Fixxo2-skolprojekt./index.html",
+    "main.7942d51f.css.map": "/Fixxo2-skolprojekt./static/css/main.7942d51f.css.map",
+    "main.14653821.js.map": "/Fixxo2-skolprojekt./static/js/main.14653821.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Fixxo2-skolprojekt./static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7942d51f.css",
+    "static/js/main.14653821.js"
+  ]
+}
