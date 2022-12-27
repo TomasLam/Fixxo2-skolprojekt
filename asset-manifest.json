@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TomasLam.github.io/Fixxo2-skolprojekt/static/css/main.7942d51f.css",
-    "main.js": "/TomasLam.github.io/Fixxo2-skolprojekt/static/js/main.64f719cf.js",
+    "main.css": "/TomasLam.github.io/Fixxo2-skolprojekt/static/css/main.ebbd5995.css",
+    "main.js": "/TomasLam.github.io/Fixxo2-skolprojekt/static/js/main.0222e35e.js",
     "static/js/787.28cb0dcd.chunk.js": "/TomasLam.github.io/Fixxo2-skolprojekt/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/TomasLam.github.io/Fixxo2-skolprojekt/index.html",
-    "main.7942d51f.css.map": "/TomasLam.github.io/Fixxo2-skolprojekt/static/css/main.7942d51f.css.map",
-    "main.64f719cf.js.map": "/TomasLam.github.io/Fixxo2-skolprojekt/static/js/main.64f719cf.js.map",
+    "main.ebbd5995.css.map": "/TomasLam.github.io/Fixxo2-skolprojekt/static/css/main.ebbd5995.css.map",
+    "main.0222e35e.js.map": "/TomasLam.github.io/Fixxo2-skolprojekt/static/js/main.0222e35e.js.map",
     "787.28cb0dcd.chunk.js.map": "/TomasLam.github.io/Fixxo2-skolprojekt/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7942d51f.css",
-    "static/js/main.64f719cf.js"
+    "static/css/main.ebbd5995.css",
+    "static/js/main.0222e35e.js"
   ]
 }
