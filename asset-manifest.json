@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fixxo2-skolprojekt/static/css/main.7942d51f.css",
-    "main.js": "/Fixxo2-skolprojekt/static/js/main.79260898.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Fixxo2-skolprojekt/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Fixxo2-skolprojekt/index.html",
-    "main.7942d51f.css.map": "/Fixxo2-skolprojekt/static/css/main.7942d51f.css.map",
-    "main.79260898.js.map": "/Fixxo2-skolprojekt/static/js/main.79260898.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Fixxo2-skolprojekt/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "./static/css/main.7942d51f.css",
+    "main.js": "./static/js/main.d4b17dd3.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "index.html": "./index.html",
+    "main.7942d51f.css.map": "./static/css/main.7942d51f.css.map",
+    "main.d4b17dd3.js.map": "./static/js/main.d4b17dd3.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7942d51f.css",
-    "static/js/main.79260898.js"
+    "static/js/main.d4b17dd3.js"
   ]
 }
